@@ -1,1 +1,28 @@
+
+# Firebase sensitive files
+/app/google-services.json
+/firebase-service-account.json
+
+# Gradle files
+.gradle/
+local.properties
+*.gradle
+
+# Android Studio specific
+.idea/
+*.iml
+
+# Build outputs
+/build/
+/app/build/
+.cxx/
+
+# MacOS
+.DS_Store
+
+# Capture folder (optional)
+captures/
+
+# Log files
+*.log
 /build
